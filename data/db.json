@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "this is my 1st post",
+      "body": "wakanda forevaaaaaa",
+      "datetime": "July 01, 2025 11:17:36 AM"
+    },
+    {
+      "id": "2",
+      "title": "this is my 2nd post",
+      "body": "wakanda forevaaaaaa",
+      "datetime": "July 01, 2025 11:17:36 AM"
+    },
+    {
+      "id": "3",
+      "title": "this is my third post",
+      "body": "wakanda forevaaaaaa",
+      "datetime": "July 01, 2025 11:17:36 AM"
+    },
+    {
+      "id": "4",
+      "title": "dddd",
+      "datetime": "March 15, 2025 ",
+      "body": "dddddddddd"
+    },
+    {
+      "id": "7",
+      "title": "hghgh",
+      "datetime": "March 16, 2025 ",
+      "body": "hghg"
+    },
+    {
+      "id": "8",
+      "title": "testing",
+      "datetime": "March 24, 2025 ",
+      "body": "body testing "
+    },
+    {
+      "id": "14",
+      "title": "testing",
+      "datetime": "March 24, 2025 ",
+      "body": "body testing "
+    },
+    {
+      "id": "13",
+      "title": "testing",
+      "datetime": "March 24, 2025 ",
+      "body": "body testing "
+    },
+    {
+      "id": "12",
+      "title": "testing",
+      "datetime": "March 24, 2025 ",
+      "body": "body testing "
+    }
+  ]
+}
